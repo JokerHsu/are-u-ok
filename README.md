@@ -119,7 +119,7 @@
 
 ## 停止使用
 
-1. 进入Fork后的项目的`Settings`页面
+1. 进入Fork后的项目的`Settings`页面.
 2. 点击左侧侧边栏的 `Actions`进入设置页面
 3. 选择`Disable Actions for this repository `即可禁用掉自动打卡
 
